@@ -1960,6 +1960,8 @@
 			"languageModelSystem"
 		]
 	},
+	"settingsSync.store": {},
+	"workbench.colorTheme": "Palm Wave",
 	"tasConfig": {
 		"endpoint": "https://default.exp-tas.com/vscode/ab",
 		"telemetryEventName": "query-expfeature",
@@ -2321,6 +2323,10 @@
 	},
 	"chatParticipantRegistry": "https://az764295.vo.msecnd.net/extensions/chat.json",
 	"builtInExtensions": [
+		{
+			"name": "palm-wave",
+			"path": "extensions/palm-wave"
+		},
 		{
 			"name": "ms-vscode.js-debug-companion",
 			"version": "1.1.2",
