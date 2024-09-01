@@ -257,7 +257,7 @@ registry.registerConfiguration({
 		},
 		"workbench.colorTheme": {
 			type: "string",
-			default: "Palm Wave",
+			default: "palm-wave-ext",
 			description: "Specifies the color theme used in the workbench.",
 		},
 	},

@@ -1961,7 +1961,7 @@
 		]
 	},
 	"settingsSync.store": {},
-	"workbench.colorTheme": "Palm Wave",
+	"workbench.colorTheme": "palm-wave-ext",
 	"tasConfig": {
 		"endpoint": "https://default.exp-tas.com/vscode/ab",
 		"telemetryEventName": "query-expfeature",
@@ -2324,8 +2324,10 @@
 	"chatParticipantRegistry": "https://az764295.vo.msecnd.net/extensions/chat.json",
 	"builtInExtensions": [
 		{
-			"name": "palm-wave",
-			"path": "extensions/palm-wave"
+			"name": "palm-code.palm-synthwave",
+			"version": "0.0.3",
+			"publisherDisplayName": "Palm Code",
+			"repo": "https://github.com/RobertoGarc/palm-wave-ext/tree/main"
 		},
 		{
 			"name": "ms-vscode.js-debug-companion",
