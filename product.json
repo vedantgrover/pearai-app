@@ -1961,7 +1961,7 @@
 		]
 	},
 	"settingsSync.store": {},
-	"workbench.colorTheme": "palm-wave-ext",
+	"workbench.colorTheme": "palm-synthwave",
 	"tasConfig": {
 		"endpoint": "https://default.exp-tas.com/vscode/ab",
 		"telemetryEventName": "query-expfeature",

@@ -230,7 +230,10 @@ export class Workbench extends Layout {
 					),
 				);
 				setBaseLayerHoverDelegate(hoverService);
-				// configurationService.updateValue("workbench.colorTheme", "Palm Wave");
+				configurationService.updateValue(
+					"workbench.colorTheme",
+					"Palm Synthwave",
+				);
 
 				// Layout
 				this.initLayout(accessor);
