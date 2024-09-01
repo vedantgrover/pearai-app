@@ -255,10 +255,10 @@ registry.registerConfiguration({
 			default: "filter",
 			scope: ConfigurationScope.WINDOW,
 		},
-		"workbench.colorTheme": {
-			type: "string",
-			default: "palm-wave-ext",
-			description: "Specifies the color theme used in the workbench.",
-		},
+		// "workbench.colorTheme": {
+		// 	type: "string",
+		// 	default: "palm-wave-ext",
+		// 	description: "Specifies the color theme used in the workbench.",
+		// },
 	},
 });
